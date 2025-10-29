@@ -1,5 +1,9 @@
 <div align="center">
  <img src="./logo.png" width="200px" height="200px">
+ <h1>ShaqayeqTemory</h1>
+ <hr>
+ <h6>This is Shaqayeq Temory! A Junior Full stack Developer</h6>
+ 
 </div>
 # 💫 About Me:
 💻 Full Stack Developer (React, Laravel, Tailwind, MySQL)<br>🎨 UI/UX Designer (Figma, Photoshop, Illustrator)<br>⚙️ Tools: Vite, Node.js, PHP, Python<br>📊 Familiar with QuickBooks
