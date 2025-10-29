@@ -2,7 +2,7 @@
  <img src="./logo.png" width="200px" height="200px">
  <h1>ShaqayeqTemory</h1>
  <hr>
- <h6 style="color:white">This is Shaqayeq Temory! A Junior Full stack Developer</h6>
+ <h6 color:white>This is Shaqayeq Temory! A Junior Full stack Developer</h6>
  
 </div>
  💫 About Me:
