@@ -5,7 +5,8 @@
  <h6 color:white>This is Shaqayeq Temory! A Junior Full stack Developer</h6>
  
 </div>
- 💫 About Me:
+ ## 💫 About Me:
+ <br>
 💻 Full Stack Developer (React, Laravel, Tailwind, MySQL)<br>🎨 UI/UX Designer (Figma, Photoshop, Illustrator)<br>⚙️ Tools: Vite, Node.js, PHP, Python<br>📊 Familiar with QuickBooks
 
 
