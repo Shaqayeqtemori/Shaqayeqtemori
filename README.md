@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-<h6 color:white>This is Shaqayeq Temory! A Junior Full stack Developer</h6>
+<h4 color:white>This is Shaqayeq Temory! A Junior Full stack Developer</h4>
 
 
 ## 🌐 Socials:
