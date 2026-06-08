@@ -1,12 +1,7 @@
-<div align="center">
- <h1>ShaqayeqTemory</h1>
- <h6 color:white>This is Shaqayeq Temory! A Junior Full stack Developer</h6>
- 
-</div>
+
 # 💫 About Me:
 <h1>ShaqayeqTemory</h1>
 <h6 color:white>This is Shaqayeq Temory! A Junior Full stack Developer</h6>
-I am a Frontend developer and Backend developer<br>
 
 
 ## 🌐 Socials:
