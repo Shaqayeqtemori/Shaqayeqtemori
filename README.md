@@ -1,13 +1,13 @@
 <!--
   Professional GitHub Profile README
-  The hero section is rendered from header.svg.
+  Animated hero section: header-animated.svg
 -->
 
 <div align="center">
 
 <img
   width="100%"
-  src="./header.svg"
+  src="./header-animated.svg"
   alt="Shaqayeq Temory — Frontend-Focused Full-Stack Developer"
 />
 
