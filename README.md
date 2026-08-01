@@ -1,37 +1,15 @@
 <!--
-  Luxury Single-File GitHub Profile README
-  Profile: Shaqayeq Temory
-  Username: Shaqayeqtemori
-  Theme: Black + Blue
+  Professional GitHub Profile README
+  The hero section is rendered from header.svg.
 -->
 
 <div align="center">
 
 <img
   width="100%"
-  src="https://capsule-render.vercel.app/api?type=waving&height=190&section=header&color=0:020617,45:0F172A,100:2563EB"
-  alt="Black and blue header"
+  src="./header.svg"
+  alt="Shaqayeq Temory — Frontend-Focused Full-Stack Developer"
 />
-
-<table>
-  <tr>
-    <td width="145" align="center">
-      <img
-        src="https://images.weserv.nl/?url=github.com/Shaqayeqtemori.png%3Fsize%3D240&w=132&h=132&fit=cover&mask=circle"
-        width="125"
-        height="125"
-        alt="Shaqayeq Temory profile photo"
-      />
-    </td>
-    <td align="left">
-      <h1>Shaqayeq Temory</h1>
-      <h3>Frontend-Focused Full-Stack Developer</h3>
-      <p>
-        Building clean, scalable, tested and SEO-friendly web applications.
-      </p>
-    </td>
-  </tr>
-</table>
 
 <img
   src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1100&color=60A5FA&center=true&vCenter=true&width=920&height=44&lines=React+%7C+Next.js+%7C+TypeScript;Zustand+%7C+TanStack+Query+%7C+State+Management;Playwright+%7C+React+Testing+Library+%7C+Vitest;SEO+%7C+Performance+%7C+Accessibility;Swagger+%7C+OpenAPI+%7C+Technical+Documentation;I+turn+ideas+into+clean%2C+reliable+and+user-friendly+products"
@@ -39,8 +17,8 @@
 />
 
 <p>
-  I combine modern frontend engineering, backend knowledge, testing, SEO and documentation
-  to create reliable digital products.
+  I combine frontend engineering, backend knowledge, automated testing,
+  SEO and documentation to build dependable digital products.
 </p>
 
 <a href="https://www.instagram.com/33shaqayeqtemory/">
