@@ -92,14 +92,11 @@ databases and application architecture.
 
 <table width="100%">
 <tr>
+<td width="50%" valign="top" align="center">
 
-<td width="50%" valign="top">
+### ⚛️ Frontend Focus
 
-<div align="center">
-
-### ⚛️ Main Stack
-
-<strong>Frontend Engineering · UI Architecture · State Management</strong>
+<strong>Building clean, scalable and user-focused interfaces.</strong>
 
 <br/><br/>
 
@@ -109,41 +106,14 @@ databases and application architecture.
 
 <br/><br/>
 
-</div>
-
-**Frontend**
-- React
-- Next.js
-- TypeScript
-- JavaScript
-
-**Styling**
-- Tailwind CSS
-- Bootstrap
-- CSS
-
-**State & Data**
-- Zustand
-- TanStack Query
-- API integration
-
-<div align="center">
-
-<br/>
-
-`Responsive UI` · `Reusable Components` · `Clean Architecture`
-
-</div>
+`Responsive UI` · `Reusable Components` · `State Management`
 
 </td>
+<td width="50%" valign="top" align="center">
 
-<td width="50%" valign="top">
+### 🔗 Full-Stack Perspective
 
-<div align="center">
-
-### 🔧 Full-Stack Knowledge
-
-<strong>Backend Integration · Database · Development Workflow</strong>
+<strong>Understanding the complete flow from interface to backend.</strong>
 
 <br/><br/>
 
@@ -153,32 +123,9 @@ databases and application architecture.
 
 <br/><br/>
 
-</div>
-
-**Backend**
-- PHP
-- Laravel
-- REST API
-
-**Database**
-- PostgreSQL
-- SQL
-
-**Workflow**
-- Git & GitHub
-- Vite
-- XAMPP
-
-<div align="center">
-
-<br/>
-
-`API Flows` · `Database Awareness` · `Backend Collaboration`
-
-</div>
+`API Integration` · `Database Awareness` · `Clean Architecture`
 
 </td>
-
 </tr>
 </table>
 
@@ -602,71 +549,6 @@ every implementation clear enough for another developer to continue.
 
 ---
 
-## 🤝 Connect With Me
-
-<table width="100%">
-<tr>
-
-<td width="50%" valign="top">
-
-<div align="center">
-
-### 💼 Professional
-
-<strong>Professional networking, collaboration and development opportunities</strong>
-
-<br/><br/>
-
-<a href="https://www.linkedin.com/in/shaqayeq-temory-b5a993335/">
-  <img src="https://img.shields.io/badge/LinkedIn-Shaqayeq_Temory-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-
-<br/><br/>
-
-<a href="https://github.com/Shaqayeqtemori">
-  <img src="https://img.shields.io/badge/GitHub-Shaqayeqtemori-020617?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-
-<br/><br/>
-
-<sub>Explore my work, development activity and technical projects.</sub>
-
-</div>
-
-</td>
-
-<td width="50%" valign="top">
-
-<div align="center">
-
-### 💬 Direct Contact
-
-<strong>Projects, technical discussions, collaboration and opportunities</strong>
-
-<br/><br/>
-
-<a href="mailto:edristemory33@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-
-<br/><br/>
-
-<a href="https://t.me/Sh_Temory003">
-  <img src="https://img.shields.io/badge/Telegram-Sh_Temory003-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
-</a>
-
-<br/><br/>
-
-<sub>Feel free to reach out for meaningful development conversations.</sub>
-
-</div>
-
-</td>
-
-</tr>
-</table>
-
----
 
 <div align="center">
 
